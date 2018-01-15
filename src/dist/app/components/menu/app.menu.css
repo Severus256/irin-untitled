@@ -1,0 +1,14 @@
+.navbar-header {
+    float: left;
+    padding: 25px;
+    text-align: center;
+    width: 100%;
+}
+
+.navbar .inner-nav ul {
+    position:relative;left:50%;float:left;margin-right:0;margin-left:0;
+    }
+    
+    .navbar .inner-nav li {
+    position:relative;right:50%;float:left;margin:0;list-style:none
+    }
